@@ -120,15 +120,15 @@ Predicted Fan Speed
 
 | Temperature | Occupancy | Fan Speed |
 |-------------|-----------|-----------|
-| Cold | Low | Slow |
-| Cold | Medium | Slow |
-| Cold | High | Medium |
-| Warm | Low | Slow |
-| Warm | Medium | Medium |
-| Warm | High | Fast |
-| Hot | Low | Medium |
-| Hot | Medium | Fast |
-| Hot | High | Fast |
+|    Cold     |   Low     |    Slow   |
+|    Cold     |  Medium   |    Slow   |
+|    Cold     |   High    |   Medium  |
+|    Warm     |   Low     |    Slow   |
+|    Warm     |  Medium   |   Medium  |
+|    Warm     |   High    |    Fast   |
+|    Hot      |   Low     |   Medium  |
+|    Hot      |  Medium   |    Fast   |
+|    Hot      |   High    |    Fast   |
 
 ---
 
